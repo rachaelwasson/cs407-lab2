@@ -21,7 +21,7 @@
 
     <EditText
         android:id="@+id/integer1"
-        android:layout_width="350dp"
+        android:layout_width="351dp"
         android:layout_height="wrap_content"
         android:ems="10"
         android:layout_marginTop="20dp"
